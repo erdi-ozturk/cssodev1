@@ -1,0 +1,71 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+.header-box {
+    
+}
+
+.logo {
+    display: inline-block;
+    position: relative;
+    left: 40%;
+    margin-bottom: 1px;
+    margin-top: 1px;
+    color: darkgray;
+}
+
+.menu{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+.menu-button {
+    display: inline;
+    padding: 5px;
+    
+}
+
+.menu-box {
+    position: relative;
+    left: 38%;
+    padding-top: 10px;
+    letter-spacing: 2px;
+}
+
+.ana-sayfa-h1 {
+    position: relative;
+    display: inline-block;
+    left: 45%;
+}
+.ana-sayfa-article {
+    display: inline-block;
+    position: relative;
+    left: 43%;
+}
+
+.baslik-ana {
+    
+    position: relative;
+    left: 15%;
+    
+}
+
+img {
+    width: 200px;
+}
+
+ol li {
+    list-style-position: inside;
+    color: tomato;
+}
+
+.product {
+    position: relative;
+    text-align: center;
+}
